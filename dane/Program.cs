@@ -41,8 +41,8 @@ string wiek=Console.ReadLine();
 Console.WriteLine("podaj wzrost");
 string wzrost= Console.ReadLine();
 
-int.Parse(numer);
-int.Parse(wiek);
-double.Parse(wzrost);
+int number= int.Parse(numer);
+int age= int.Parse(wiek);
+double height= double.Parse(wzrost);
 
 
